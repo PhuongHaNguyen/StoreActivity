@@ -1,0 +1,12 @@
+D:\source\WinApp\StoreActivity\StoreActivity\bin\Debug\StoreActivity.dll.config
+D:\source\WinApp\StoreActivity\StoreActivity\bin\Debug\StoreActivity.dll
+D:\source\WinApp\StoreActivity\StoreActivity\bin\Debug\StoreActivity.pdb
+D:\source\WinApp\StoreActivity\StoreActivity\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\source\WinApp\StoreActivity\StoreActivity\bin\Debug\log4net.dll
+D:\source\WinApp\StoreActivity\StoreActivity\bin\Debug\Newtonsoft.Json.dll
+D:\source\WinApp\StoreActivity\StoreActivity\bin\Debug\log4net.xml
+D:\source\WinApp\StoreActivity\StoreActivity\bin\Debug\Newtonsoft.Json.xml
+D:\source\WinApp\StoreActivity\StoreActivity\obj\Debug\StoreActivity.csproj.CoreCompileInputs.cache
+D:\source\WinApp\StoreActivity\StoreActivity\obj\Debug\StoreActivity.csproj.CopyComplete
+D:\source\WinApp\StoreActivity\StoreActivity\obj\Debug\StoreActivity.dll
+D:\source\WinApp\StoreActivity\StoreActivity\obj\Debug\StoreActivity.pdb

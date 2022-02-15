@@ -1,0 +1,236 @@
+2022-02-07 09:51:39,657 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-02-07 09:51:39,831 INFO [1] Program - serverNameConn:10.8.1.120
+2022-02-07 09:51:40,057 INFO [1] Program - username connect:hanguyen
+2022-02-07 09:51:40,395 INFO [1] Program - password connect:hanguyen@123
+2022-02-07 09:51:40,580 INFO [1] Program - name table config:Name
+2022-02-07 09:51:40,761 INFO [1] Program - value table config:Value
+2022-02-07 09:51:40,904 INFO [1] Program - ApiUrl:ApiUrl
+2022-02-07 09:51:42,218 INFO [1] Program - Connect SQL Server success
+2022-02-07 09:51:47,207 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-07 09:51:53,531 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-07 09:51:54,749 INFO [1] Program - Start call API download file
+2022-02-07 09:51:54,909 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-07 09:52:00,813 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-07 09:52:04,674 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-02-07 09:52:05,249 INFO [1] Program - 
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : HANGUYEN
+   Primary Dns Suffix  . . . . . . . : maisonjsc.com
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : maisonjsc.com
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : maisonjsc.com
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (2) I219-LM
+   Physical Address. . . . . . . . . : 18-60-24-89-B5-02
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d0ac:5bab:8fb2:9552%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.8.3.55(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, January 27, 2022 2:07:43 PM
+   Lease Expires . . . . . . . . . . : Monday, February 7, 2022 2:07:37 PM
+   Default Gateway . . . . . . . . . : 10.8.3.1
+   DHCP Server . . . . . . . . . . . : 10.8.1.8
+   DHCPv6 IAID . . . . . . . . . . . : 102260772
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-29-7A-73-CD-18-60-24-89-B5-02
+   DNS Servers . . . . . . . . . . . : 10.8.1.8
+                                       10.8.1.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+2022-02-07 09:52:05,796 INFO [1] Program - Execute Command line ipconfig /all success
+2022-02-07 09:52:07,883 INFO [1] Program - Start Execute Command line ipconfig
+2022-02-07 09:52:08,424 INFO [1] Program - 
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : maisonjsc.com
+   Link-local IPv6 Address . . . . . : fe80::d0ac:5bab:8fb2:9552%6
+   IPv4 Address. . . . . . . . . . . : 10.8.3.55
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.8.3.1
+
+
+2022-02-07 09:52:08,908 INFO [1] Program - Execute Command line ipconfig success
+2022-02-07 09:52:15,511 INFO [1] Program - Start Execute Command line systeminfo
+2022-02-07 09:52:19,727 INFO [1] Program - 
+Host Name:                 HANGUYEN
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19044 N/A Build 19044
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Admin
+Registered Organization:   
+Product ID:                00330-80000-00000-AA990
+Original Install Date:     1/19/2022, 5:34:43 PM
+System Boot Time:          1/27/2022, 2:07:24 PM
+System Manufacturer:       HP
+System Model:              HP Z240 Tower Workstation
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 94 Stepping 3 GenuineIntel ~1700 Mhz
+BIOS Version:              HP N51 Ver. 01.67, 3/20/2018
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-gb;English (United Kingdom)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     16,305 MB
+Available Physical Memory: 9,513 MB
+Virtual Memory: Max Size:  18,737 MB
+Virtual Memory: Available: 10,211 MB
+Virtual Memory: In Use:    8,526 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    maisonjsc.com
+Logon Server:              \\MSAD2016
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB5008876
+                           [02]: KB5003791
+                           [03]: KB5010793
+                           [04]: KB5009636
+                           [05]: KB5005699
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) Ethernet Connection (2) I219-LM
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.8.1.8
+                                 IP address(es)
+                                 [01]: 10.8.3.55
+                                 [02]: fe80::d0ac:5bab:8fb2:9552
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+
+2022-02-07 09:52:25,056 INFO [1] Program - Execute Command line systeminfo success
+2022-02-07 09:52:27,378 INFO [1] Program - Start download file
+2022-02-07 09:52:36,022 INFO [1] Program - Path file download:https://file-examples-com.github.io/uploads/2017/02/file-sample_100kB.doc
+2022-02-07 09:52:41,219 INFO [1] Program - Download file success
+2022-02-07 09:55:52,734 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-02-07 09:55:52,748 INFO [1] Program - serverNameConn:10.8.1.120
+2022-02-07 09:55:52,749 INFO [1] Program - username connect:hanguyen
+2022-02-07 09:55:52,750 INFO [1] Program - password connect:hanguyen@123
+2022-02-07 09:55:52,752 INFO [1] Program - name table config:Name
+2022-02-07 09:55:52,753 INFO [1] Program - value table config:Value
+2022-02-07 09:55:52,754 INFO [1] Program - ApiUrl:ApiUrl
+2022-02-07 09:55:52,821 INFO [1] Program - Connect SQL Server success
+2022-02-07 09:55:52,838 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-07 09:55:53,345 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-07 09:55:53,436 INFO [1] Program - Start call API download file
+2022-02-07 09:55:53,439 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-07 09:55:55,578 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-07 09:55:55,579 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-02-07 09:55:55,748 INFO [1] Program - 
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : HANGUYEN
+   Primary Dns Suffix  . . . . . . . : maisonjsc.com
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : maisonjsc.com
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : maisonjsc.com
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (2) I219-LM
+   Physical Address. . . . . . . . . : 18-60-24-89-B5-02
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d0ac:5bab:8fb2:9552%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.8.3.55(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, January 27, 2022 2:07:43 PM
+   Lease Expires . . . . . . . . . . : Monday, February 7, 2022 2:07:36 PM
+   Default Gateway . . . . . . . . . : 10.8.3.1
+   DHCP Server . . . . . . . . . . . : 10.8.1.8
+   DHCPv6 IAID . . . . . . . . . . . : 102260772
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-29-7A-73-CD-18-60-24-89-B5-02
+   DNS Servers . . . . . . . . . . . : 10.8.1.8
+                                       10.8.1.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+2022-02-07 09:55:55,753 INFO [1] Program - Execute Command line ipconfig /all success
+2022-02-07 09:55:55,754 INFO [1] Program - Start Execute Command line ipconfig
+2022-02-07 09:55:55,860 INFO [1] Program - 
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : maisonjsc.com
+   Link-local IPv6 Address . . . . . : fe80::d0ac:5bab:8fb2:9552%6
+   IPv4 Address. . . . . . . . . . . : 10.8.3.55
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.8.3.1
+
+
+2022-02-07 09:55:55,864 INFO [1] Program - Execute Command line ipconfig success
+2022-02-07 09:55:55,866 INFO [1] Program - Start Execute Command line systeminfo
+2022-02-07 09:55:59,069 INFO [1] Program - 
+Host Name:                 HANGUYEN
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19044 N/A Build 19044
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Admin
+Registered Organization:   
+Product ID:                00330-80000-00000-AA990
+Original Install Date:     1/19/2022, 5:34:43 PM
+System Boot Time:          1/27/2022, 2:07:24 PM
+System Manufacturer:       HP
+System Model:              HP Z240 Tower Workstation
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 94 Stepping 3 GenuineIntel ~3501 Mhz
+BIOS Version:              HP N51 Ver. 01.67, 3/20/2018
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-gb;English (United Kingdom)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     16,305 MB
+Available Physical Memory: 9,450 MB
+Virtual Memory: Max Size:  18,737 MB
+Virtual Memory: Available: 10,171 MB
+Virtual Memory: In Use:    8,566 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    maisonjsc.com
+Logon Server:              \\MSAD2016
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB5008876
+                           [02]: KB5003791
+                           [03]: KB5010793
+                           [04]: KB5009636
+                           [05]: KB5005699
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) Ethernet Connection (2) I219-LM
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.8.1.8
+                                 IP address(es)
+                                 [01]: 10.8.3.55
+                                 [02]: fe80::d0ac:5bab:8fb2:9552
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+
+2022-02-07 09:55:59,077 INFO [1] Program - Execute Command line systeminfo success
+2022-02-07 09:55:59,078 INFO [1] Program - Start download file
+2022-02-07 09:55:59,079 INFO [1] Program - Path file download:https://file-examples-com.github.io/uploads/2017/02/file-sample_100kB.doc
+2022-02-07 09:55:59,301 INFO [1] Program - Download file success

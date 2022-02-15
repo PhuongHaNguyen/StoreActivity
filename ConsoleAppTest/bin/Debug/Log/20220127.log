@@ -1,0 +1,258 @@
+2022-01-27 11:39:27,416 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 11:39:27,801 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 11:39:28,073 INFO [1] Program - username connect:hanguyen
+2022-01-27 11:39:28,288 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 11:39:28,537 INFO [1] Program - name table config:Name
+2022-01-27 11:39:29,054 INFO [1] Program - value table config:Value
+2022-01-27 11:39:29,292 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 11:39:40,666 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 11:39:41,234 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 11:39:41,295 INFO [1] Program - Start call API download file
+2022-01-27 11:39:57,525 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 11:52:11,875 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 11:52:11,885 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 11:52:11,887 INFO [1] Program - username connect:hanguyen
+2022-01-27 11:52:11,888 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 11:52:11,889 INFO [1] Program - name table config:Name
+2022-01-27 11:52:11,890 INFO [1] Program - value table config:Value
+2022-01-27 11:52:11,890 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 11:52:11,954 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 11:52:12,483 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 11:52:12,565 INFO [1] Program - Start call API download file
+2022-01-27 11:52:17,803 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 11:56:37,289 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 11:56:37,300 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 11:56:37,300 INFO [1] Program - username connect:hanguyen
+2022-01-27 11:56:37,301 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 11:56:37,302 INFO [1] Program - name table config:Name
+2022-01-27 11:56:37,302 INFO [1] Program - value table config:Value
+2022-01-27 11:56:37,303 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 11:56:37,391 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 11:56:37,888 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 11:56:37,965 INFO [1] Program - Start call API download file
+2022-01-27 11:56:45,437 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 13:37:04,970 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 13:37:05,122 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 13:37:05,309 INFO [1] Program - username connect:hanguyen
+2022-01-27 13:37:05,459 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 13:37:05,635 INFO [1] Program - name table config:Name
+2022-01-27 13:37:05,804 INFO [1] Program - value table config:Value
+2022-01-27 13:37:05,957 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 13:37:23,716 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 13:37:30,354 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 13:37:30,424 INFO [1] Program - Start call API download file
+2022-01-27 13:37:37,414 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 13:40:35,161 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 13:40:35,401 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 13:40:35,620 INFO [1] Program - username connect:hanguyen
+2022-01-27 13:40:35,833 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 13:40:36,049 INFO [1] Program - name table config:Name
+2022-01-27 13:40:36,281 INFO [1] Program - value table config:Value
+2022-01-27 13:40:36,578 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 13:41:00,404 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 13:41:11,674 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 13:41:15,886 INFO [1] Program - Start call API download file
+2022-01-27 13:41:24,247 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 13:59:41,493 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 13:59:41,504 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 13:59:41,505 INFO [1] Program - username connect:hanguyen
+2022-01-27 13:59:41,506 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 13:59:41,506 INFO [1] Program - name table config:Name
+2022-01-27 13:59:41,506 INFO [1] Program - value table config:Value
+2022-01-27 13:59:41,507 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 13:59:41,573 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 13:59:42,137 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 13:59:42,185 INFO [1] Program - Start call API download file
+2022-01-27 13:59:47,455 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 14:00:33,465 INFO [1] Program - Execute Command line ipconfig /all success
+2022-01-27 14:00:33,468 INFO [1] Program - Start Execute Command line ipconfig
+2022-01-27 14:00:36,710 INFO [1] Program - Execute Command line ipconfig success
+2022-01-27 14:00:36,712 INFO [1] Program - Start Execute Command line systeminfo
+2022-01-27 14:00:38,049 INFO [1] Program - Execute Command line systeminfo success
+2022-01-27 14:00:38,051 INFO [1] Program - Start download file
+2022-01-27 14:00:38,329 INFO [1] Program - Download file success
+2022-01-27 14:03:42,842 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 14:03:42,856 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 14:03:42,858 INFO [1] Program - username connect:hanguyen
+2022-01-27 14:03:42,859 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 14:03:42,860 INFO [1] Program - name table config:Name
+2022-01-27 14:03:42,860 INFO [1] Program - value table config:Value
+2022-01-27 14:03:42,861 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 14:03:42,926 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 14:03:43,406 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 14:03:43,468 INFO [1] Program - Start call API download file
+2022-01-27 14:03:47,990 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 14:04:35,789 INFO [1] Program - Execute Command line ipconfig /all success
+2022-01-27 14:04:37,788 INFO [1] Program - Start Execute Command line ipconfig
+2022-01-27 14:04:58,631 INFO [1] Program - Execute Command line ipconfig success
+2022-01-27 14:04:58,634 INFO [1] Program - Start Execute Command line systeminfo
+2022-01-27 14:14:03,522 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 14:14:03,536 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 14:14:03,536 INFO [1] Program - username connect:hanguyen
+2022-01-27 14:14:03,537 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 14:14:03,538 INFO [1] Program - name table config:Name
+2022-01-27 14:14:03,539 INFO [1] Program - value table config:Value
+2022-01-27 14:14:03,539 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 14:14:03,782 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 14:14:04,336 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 14:14:04,426 INFO [1] Program - Start call API download file
+2022-01-27 14:14:07,735 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 14:14:25,739 INFO [1] Program - Execute Command line ipconfig /all success
+2022-01-27 14:14:25,742 INFO [1] Program - Start Execute Command line ipconfig
+2022-01-27 14:14:31,447 INFO [1] Program - Execute Command line ipconfig success
+2022-01-27 14:14:31,450 INFO [1] Program - Start Execute Command line systeminfo
+2022-01-27 14:23:09,253 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 14:23:09,539 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 14:23:09,742 INFO [1] Program - username connect:hanguyen
+2022-01-27 14:23:09,946 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 14:23:10,088 INFO [1] Program - name table config:Name
+2022-01-27 14:23:10,257 INFO [1] Program - value table config:Value
+2022-01-27 14:23:10,453 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 14:23:21,404 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 14:23:22,292 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 14:23:22,349 INFO [1] Program - Start call API download file
+2022-01-27 14:23:24,716 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 14:24:43,948 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 14:24:43,976 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 14:24:43,977 INFO [1] Program - username connect:hanguyen
+2022-01-27 14:24:43,979 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 14:24:43,980 INFO [1] Program - name table config:Name
+2022-01-27 14:24:43,981 INFO [1] Program - value table config:Value
+2022-01-27 14:24:43,983 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 14:24:44,051 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 14:24:44,612 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 14:24:44,651 INFO [1] Program - Start call API download file
+2022-01-27 14:24:46,645 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 14:29:31,659 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 14:29:31,805 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 14:29:32,168 INFO [1] Program - username connect:hanguyen
+2022-01-27 14:29:32,575 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 14:29:33,366 INFO [1] Program - name table config:Name
+2022-01-27 14:29:33,369 INFO [1] Program - value table config:Value
+2022-01-27 14:29:33,372 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 14:29:33,486 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 14:29:34,051 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 14:29:34,107 INFO [1] Program - Start call API download file
+2022-01-27 14:29:35,879 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 15:21:09,623 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 15:21:09,783 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 15:21:09,963 INFO [1] Program - username connect:hanguyen
+2022-01-27 15:21:10,117 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 15:21:10,296 INFO [1] Program - name table config:Name
+2022-01-27 15:21:10,438 INFO [1] Program - value table config:Value
+2022-01-27 15:21:10,599 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 15:21:22,773 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 15:21:28,901 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 15:21:32,921 INFO [1] Program - Start call API download file
+2022-01-27 15:21:40,085 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 16:20:31,782 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 16:20:31,791 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 16:20:31,793 INFO [1] Program - username connect:hanguyen
+2022-01-27 16:20:31,794 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 16:20:31,795 INFO [1] Program - name table config:Name
+2022-01-27 16:20:31,796 INFO [1] Program - value table config:Value
+2022-01-27 16:20:31,797 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 16:20:31,876 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 16:20:32,463 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 16:20:32,500 INFO [1] Program - Start call API download file
+2022-01-27 16:20:36,641 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 16:21:33,723 INFO [1] Program - Execute Command line ipconfig /all success
+2022-01-27 16:21:38,523 INFO [1] Program - Start Execute Command line ipconfig
+2022-01-27 16:22:37,036 INFO [1] Program - Execute Command line ipconfig success
+2022-01-27 16:22:37,045 INFO [1] Program - Start Execute Command line systeminfo
+2022-01-27 16:22:46,631 INFO [1] Program - Execute Command line systeminfo success
+2022-01-27 16:22:48,102 INFO [1] Program - Start download file
+2022-01-27 16:22:48,696 INFO [1] Program - Download file success
+2022-01-27 16:34:48,241 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 16:34:48,259 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 16:34:48,261 INFO [1] Program - username connect:hanguyen
+2022-01-27 16:34:48,262 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 16:34:48,264 INFO [1] Program - name table config:Name
+2022-01-27 16:34:48,265 INFO [1] Program - value table config:Value
+2022-01-27 16:34:48,267 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 16:34:48,332 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 16:34:48,871 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 16:34:48,956 INFO [1] Program - Start call API download file
+2022-01-27 16:34:54,676 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 16:35:37,298 INFO [1] Program - Execute Command line ipconfig /all success
+2022-01-27 16:35:39,453 INFO [1] Program - Start Execute Command line ipconfig
+2022-01-27 16:35:40,472 INFO [1] Program - Execute Command line ipconfig success
+2022-01-27 16:36:00,996 INFO [1] Program - Start Execute Command line systeminfo
+2022-01-27 16:36:06,046 INFO [1] Program - Execute Command line systeminfo success
+2022-01-27 16:36:24,237 INFO [1] Program - Start download file
+2022-01-27 16:36:24,774 INFO [1] Program - Download file success
+2022-01-27 17:05:27,401 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 17:05:27,412 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 17:05:27,413 INFO [1] Program - username connect:hanguyen
+2022-01-27 17:05:27,414 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 17:05:27,415 INFO [1] Program - name table config:Name
+2022-01-27 17:05:27,416 INFO [1] Program - value table config:Value
+2022-01-27 17:05:27,417 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 17:05:27,481 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 17:05:28,099 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 17:05:28,165 INFO [1] Program - Start call API download file
+2022-01-27 17:05:28,166 INFO [1] Program - Start Run StoreActivityUpdate
+2022-01-27 17:21:47,424 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 17:21:47,436 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 17:21:47,437 INFO [1] Program - username connect:hanguyen
+2022-01-27 17:21:47,437 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 17:21:47,438 INFO [1] Program - name table config:Name
+2022-01-27 17:21:47,439 INFO [1] Program - value table config:Value
+2022-01-27 17:21:47,440 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 17:21:47,504 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 17:21:48,001 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 17:21:48,070 INFO [1] Program - Start call API download file
+2022-01-27 17:21:48,072 INFO [1] Program - Start Run StoreActivityUpdate
+2022-01-27 17:22:31,073 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 17:22:31,082 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 17:22:31,083 INFO [1] Program - username connect:hanguyen
+2022-01-27 17:22:31,084 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 17:22:31,085 INFO [1] Program - name table config:Name
+2022-01-27 17:22:31,086 INFO [1] Program - value table config:Value
+2022-01-27 17:22:31,087 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 17:22:31,154 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 17:22:31,697 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 17:22:31,787 INFO [1] Program - Start call API download file
+2022-01-27 17:22:31,789 INFO [1] Program - Start Run StoreActivityUpdate
+2022-01-27 17:23:23,991 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 17:23:24,153 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 17:23:27,269 INFO [1] Program - username connect:hanguyen
+2022-01-27 17:23:27,444 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 17:23:27,617 INFO [1] Program - name table config:Name
+2022-01-27 17:23:27,795 INFO [1] Program - value table config:Value
+2022-01-27 17:23:27,961 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 17:23:41,951 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 17:23:47,593 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 17:23:56,061 INFO [1] Program - Start call API download file
+2022-01-27 17:23:57,168 INFO [1] Program - Start Run StoreActivityUpdate
+2022-01-27 17:24:53,086 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 17:24:53,105 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 17:24:53,106 INFO [1] Program - username connect:hanguyen
+2022-01-27 17:24:53,107 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 17:24:53,107 INFO [1] Program - name table config:Name
+2022-01-27 17:24:53,109 INFO [1] Program - value table config:Value
+2022-01-27 17:24:53,110 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 17:24:53,189 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 17:24:53,612 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 17:24:53,681 INFO [1] Program - Start call API download file
+2022-01-27 17:24:53,683 INFO [1] Program - Start Run StoreActivityUpdate
+2022-01-27 17:27:39,252 INFO [1] Program - ETPDB connection string:Server={0};Database=DEVTEST;User Id={1};Password={2};
+2022-01-27 17:27:39,262 INFO [1] Program - serverNameConn:10.8.1.120
+2022-01-27 17:27:39,264 INFO [1] Program - username connect:hanguyen
+2022-01-27 17:27:39,265 INFO [1] Program - password connect:hanguyen@123
+2022-01-27 17:27:39,266 INFO [1] Program - name table config:Name
+2022-01-27 17:27:39,267 INFO [1] Program - value table config:Value
+2022-01-27 17:27:39,267 INFO [1] Program - ApiUrl:ApiUrl
+2022-01-27 17:27:39,334 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-27 17:27:39,804 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-01-27 17:27:39,895 INFO [1] Program - Start call API download file
+2022-01-27 17:27:39,896 INFO [1] Program - Start Run StoreActivityUpdate
+2022-01-27 17:28:11,176 INFO [1] Program - Run StoreActivityUpdate success
+2022-01-27 17:28:11,179 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-01-27 17:28:11,336 INFO [1] Program - Execute Command line ipconfig /all success
+2022-01-27 17:28:11,338 INFO [1] Program - Start Execute Command line ipconfig
+2022-01-27 17:28:11,440 INFO [1] Program - Execute Command line ipconfig success
+2022-01-27 17:28:11,442 INFO [1] Program - Start Execute Command line systeminfo
+2022-01-27 17:28:14,559 INFO [1] Program - Execute Command line systeminfo success
+2022-01-27 17:28:14,562 INFO [1] Program - Start download file
+2022-01-27 17:28:15,136 INFO [1] Program - Download file success

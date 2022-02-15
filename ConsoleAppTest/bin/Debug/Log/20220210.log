@@ -1,0 +1,112 @@
+2022-02-10 15:20:58,357 INFO [1] Program - Connect SQL Server success
+2022-02-10 15:20:58,382 INFO [1] Program - API Gateway:
+2022-02-10 15:21:15,927 INFO [1] Program - Call API  Success
+2022-02-10 15:21:41,616 INFO [1] Program - Start call API download file
+2022-02-10 15:23:11,928 ERROR [1] Program - Exception message:Invalid URI: The format of the URI could not be determined.
+2022-02-10 15:23:11,958 ERROR [1] Program - Exception full strack:System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at Msa.StoreActivity.Program.<Get>d__7.MoveNext() in D:\source\WinApp\StoreActivity\StoreActivity\Program.cs:line 239
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Msa.StoreActivity.Program.RunSync[TResult](Func`1 func) in D:\source\WinApp\StoreActivity\StoreActivity\Program.cs:line 296
+   at Msa.StoreActivity.Program.GetLinkDownload(String urlApiGetLastVersion) in D:\source\WinApp\StoreActivity\StoreActivity\Program.cs:line 231
+   at Msa.StoreActivity.Program.<processAutoUpdate>d__4.MoveNext() in D:\source\WinApp\StoreActivity\StoreActivity\Program.cs:line 131
+2022-02-10 15:46:50,110 INFO [1] Program - Connect SQL Server success
+2022-02-10 15:46:59,460 INFO [1] Program - API Gateway:
+2022-02-10 15:47:27,617 INFO [1] Program - Call API  Success
+2022-02-10 15:47:35,963 INFO [1] Program - Start call API download file
+2022-02-10 15:48:41,903 ERROR [1] Program - Exception message:Object reference not set to an instance of an object.
+2022-02-10 15:48:50,481 ERROR [1] Program - Exception full strack:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Msa.StoreActivity.Program.<processAutoUpdate>d__4.MoveNext() in D:\source\WinApp\StoreActivity\StoreActivity\Program.cs:line 135
+2022-02-10 15:49:27,646 INFO [1] Program - Connect SQL Server success
+2022-02-10 15:49:27,681 INFO [1] Program - API Gateway:
+2022-02-10 15:49:38,491 INFO [1] Program - Call API  Success
+2022-02-10 15:49:38,560 INFO [1] Program - Start call API download file
+2022-02-10 15:51:20,488 INFO [1] Program - Connect SQL Server success
+2022-02-10 15:51:20,516 INFO [1] Program - API Gateway:
+2022-02-10 15:51:24,970 INFO [1] Program - Call API  Success
+2022-02-10 15:51:24,997 INFO [1] Program - Start call API download file
+2022-02-10 15:56:59,398 INFO [1] Program - Connect SQL Server success
+2022-02-10 15:56:59,422 INFO [1] Program - API Gateway:
+2022-02-10 15:56:59,648 INFO [1] Program - Call API  Success
+2022-02-10 15:56:59,676 INFO [1] Program - Start call API download file
+2022-02-10 15:57:21,261 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-10 15:58:09,074 INFO [1] Program - Connect SQL Server success
+2022-02-10 15:58:13,770 INFO [1] Program - API Gateway:
+2022-02-10 15:58:14,056 INFO [1] Program - Call API  Success
+2022-02-10 15:58:14,104 INFO [1] Program - Start call API download file
+2022-02-10 16:05:27,839 INFO [1] Program - Connect SQL Server success
+2022-02-10 16:05:27,864 INFO [1] Program - API Gateway:
+2022-02-10 16:05:28,096 INFO [1] Program - Call API  Success
+2022-02-10 16:05:29,323 INFO [1] Program - Start call API download file
+2022-02-10 16:12:16,250 INFO [1] Program - Connect SQL Server success
+2022-02-10 16:12:16,284 INFO [1] Program - API Gateway:
+2022-02-10 16:12:16,523 INFO [1] Program - Call API  Success
+2022-02-10 16:12:22,964 INFO [1] Program - Start call API download file
+2022-02-10 16:13:23,877 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-10 16:14:17,764 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-10 16:14:17,766 INFO [1] Program - Execute task count
+2022-02-10 16:16:27,914 INFO [1] Program - Connect SQL Server success
+2022-02-10 16:16:27,944 INFO [1] Program - API Gateway:
+2022-02-10 16:16:28,145 INFO [1] Program - Call API  Success
+2022-02-10 16:16:31,247 INFO [1] Program - Start call API download file
+2022-02-10 16:16:51,953 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-10 16:17:52,249 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-10 16:18:48,662 INFO [1] Program - Execute task count
+2022-02-10 16:20:21,825 INFO [1] Program - Connect SQL Server success
+2022-02-10 16:20:21,873 INFO [1] Program - API Gateway:
+2022-02-10 16:20:22,104 INFO [1] Program - Call API  Success
+2022-02-10 16:20:24,211 INFO [1] Program - Start call API download file
+2022-02-10 16:20:49,156 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-10 16:20:59,511 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-10 16:22:44,538 INFO [1] Program - Connect SQL Server success
+2022-02-10 16:22:44,569 INFO [1] Program - API Gateway:
+2022-02-10 16:22:44,767 INFO [1] Program - Call API  Success
+2022-02-10 16:22:46,938 INFO [1] Program - Start call API download file
+2022-02-10 16:23:36,293 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-10 16:23:43,562 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-10 16:24:09,558 INFO [1] Program - Execute task count
+2022-02-10 16:24:16,735 INFO [1] Program - Connect SQL Server success
+2022-02-10 16:24:16,775 INFO [1] Program - API Gateway:
+2022-02-10 16:24:17,038 INFO [1] Program - Call API  Success
+2022-02-10 16:24:22,418 INFO [1] Program - Start call API download file
+2022-02-10 16:24:23,127 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-10 16:24:25,187 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-10 16:26:44,137 INFO [1] Program - Connect SQL Server success
+2022-02-10 16:26:44,159 INFO [1] Program - API Gateway:
+2022-02-10 16:26:44,349 INFO [1] Program - Call API  Success
+2022-02-10 16:26:44,377 INFO [1] Program - Start call API download file
+2022-02-10 16:27:11,377 INFO [1] Program - Connect SQL Server success
+2022-02-10 16:27:11,416 INFO [1] Program - API Gateway:
+2022-02-10 16:27:11,659 INFO [1] Program - Call API  Success
+2022-02-10 16:27:14,611 INFO [1] Program - Start call API download file
+2022-02-10 16:27:15,762 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-10 16:27:17,710 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-10 16:30:20,286 INFO [1] Program - Connect SQL Server success
+2022-02-10 16:30:20,311 INFO [1] Program - API Gateway:
+2022-02-10 16:30:20,518 INFO [1] Program - Call API  Success
+2022-02-10 16:30:23,761 INFO [1] Program - Start call API download file
+2022-02-10 16:30:24,450 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-10 16:30:26,425 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-10 16:33:14,764 INFO [1] Program - Connect SQL Server success
+2022-02-10 16:33:14,787 INFO [1] Program - API Gateway:
+2022-02-10 16:33:14,993 INFO [1] Program - Call API  Success
+2022-02-10 16:33:18,204 INFO [1] Program - Start call API download file
+2022-02-10 16:33:18,903 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-10 16:33:20,831 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-10 16:35:59,851 INFO [1] Program - Connect SQL Server success
+2022-02-10 16:35:59,877 INFO [1] Program - API Gateway:
+2022-02-10 16:36:00,096 INFO [1] Program - Call API  Success
+2022-02-10 16:36:02,903 INFO [1] Program - Start call API download file
+2022-02-10 16:36:19,099 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-10 16:36:21,064 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-10 16:40:11,443 INFO [1] Program - Connect SQL Server success
+2022-02-10 16:40:11,474 INFO [1] Program - API Gateway:
+2022-02-10 16:40:11,693 INFO [1] Program - Call API  Success
+2022-02-10 16:40:19,624 INFO [1] Program - Start call API download file
+2022-02-10 16:40:20,597 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-10 16:40:22,633 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-10 16:40:46,999 INFO [1] Program - Execute task count

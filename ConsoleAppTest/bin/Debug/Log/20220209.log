@@ -1,0 +1,22 @@
+2022-02-09 15:00:11,076 INFO [1] Program - Connect SQL Server success
+2022-02-09 15:00:28,584 ERROR [1] Program - Exception message:Column 'EtpBaseURL' does not belong to table .
+2022-02-09 15:00:28,637 ERROR [1] Program - Exception full strack:System.ArgumentException: Column 'EtpBaseURL' does not belong to table .
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at Msa.StoreActivity.Program.<run>d__4.MoveNext() in D:\source\WinApp\StoreActivity\StoreActivity\Program.cs:line 98
+2022-02-09 15:01:16,577 INFO [1] Program - Connect SQL Server success
+2022-02-09 15:04:28,041 INFO [1] Program - Connect SQL Server success
+2022-02-09 15:04:59,158 INFO [1] Program - API Gateway:
+2022-02-09 15:07:44,081 INFO [1] Program - Connect SQL Server success
+2022-02-09 15:08:02,935 INFO [1] Program - API Gateway:
+2022-02-09 15:22:19,059 INFO [1] Program - Connect SQL Server success
+2022-02-09 15:22:33,981 INFO [1] Program - API Gateway:
+2022-02-09 15:31:18,985 INFO [1] Program - Connect SQL Server success
+2022-02-09 15:31:27,748 INFO [1] Program - API Gateway:
+2022-02-09 15:32:04,421 INFO [1] Program - Call API  Success
+2022-02-09 15:49:02,182 INFO [1] Program - Connect SQL Server success
+2022-02-09 15:49:07,864 INFO [1] Program - API Gateway:
+2022-02-09 15:49:51,504 INFO [1] Program - Call API  Success
+2022-02-09 15:50:53,188 INFO [1] Program - Connect SQL Server success
+2022-02-09 15:51:01,084 INFO [1] Program - API Gateway:
+2022-02-09 15:51:09,485 INFO [1] Program - Call API  Success

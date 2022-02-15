@@ -1,0 +1,3 @@
+2022-01-24 16:32:33,441 INFO [1] Program - valueApiUrl:https://randomuser.me/api/
+2022-01-24 16:32:33,450 INFO [1] Program - valueLogPath:D:\\log.txt
+2022-01-24 16:32:33,911 INFO [1] Program - Call API https://randomuser.me/api/ Success

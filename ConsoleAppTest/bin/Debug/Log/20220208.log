@@ -1,0 +1,154 @@
+2022-02-08 14:20:30,227 INFO [1] Program - Connect SQL Server success
+2022-02-08 14:22:04,532 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-08 14:22:29,162 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-08 14:22:59,529 INFO [1] Program - Start call API download file
+2022-02-08 14:23:00,446 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-08 14:25:01,199 INFO [1] Program - Connect SQL Server success
+2022-02-08 14:25:02,486 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-08 14:25:05,601 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-08 14:25:10,015 INFO [1] Program - Start call API download file
+2022-02-08 14:25:12,560 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-08 14:25:39,716 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-08 14:27:12,426 INFO [1] Program - Connect SQL Server success
+2022-02-08 14:27:14,452 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-08 14:27:17,661 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-08 14:27:23,382 INFO [1] Program - Start call API download file
+2022-02-08 14:27:24,087 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-08 14:27:42,855 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-08 14:27:45,262 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-02-08 14:27:47,320 INFO [1] Program - Execute Command line ipconfig /all success
+2022-02-08 14:27:48,780 INFO [1] Program - Start Execute Command line ipconfig
+2022-02-08 14:27:49,090 INFO [1] Program - Execute Command line ipconfig success
+2022-02-08 14:27:59,114 INFO [1] Program - Start Execute Command line systeminfo
+2022-02-08 14:28:03,651 INFO [1] Program - Execute Command line systeminfo success
+2022-02-08 14:28:04,356 INFO [1] Program - Start download file
+2022-02-08 14:28:04,508 INFO [1] Program - Path file download:https://file-examples-com.github.io/uploads/2017/02/file-sample_100kB.doc
+2022-02-08 14:28:16,076 INFO [1] Program - Download file success
+2022-02-08 14:28:16,939 INFO [1] Program - Start upload file:D:\\HaNguyen\\Source\\TargetMaster.xlsx
+2022-02-08 14:28:26,465 INFO [1] Program - Upload file success
+2022-02-08 14:28:57,318 INFO [1] Program - Connect SQL Server success
+2022-02-08 14:28:59,166 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-08 14:29:01,452 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-08 14:29:12,010 INFO [1] Program - Start call API download file
+2022-02-08 14:29:12,809 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-08 14:29:39,226 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-08 14:29:44,306 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-02-08 14:29:45,488 INFO [1] Program - Execute Command line ipconfig /all success
+2022-02-08 14:29:46,280 INFO [1] Program - Start Execute Command line ipconfig
+2022-02-08 14:29:46,585 INFO [1] Program - Execute Command line ipconfig success
+2022-02-08 14:29:47,379 INFO [1] Program - Start Execute Command line systeminfo
+2022-02-08 14:29:51,618 INFO [1] Program - Execute Command line systeminfo success
+2022-02-08 14:30:01,728 INFO [1] Program - Start download file
+2022-02-08 14:30:03,141 INFO [1] Program - Path file download:https://file-examples-com.github.io/uploads/2017/02/file-sample_100kB.doc
+2022-02-08 14:30:28,268 INFO [1] Program - Download file success
+2022-02-08 14:30:28,819 INFO [1] Program - Start upload file:D:\\HaNguyen\\Source\\TargetMaster.xlsx
+2022-02-08 14:30:33,775 INFO [1] Program - Upload file success
+2022-02-08 14:50:39,278 INFO [1] Program - Connect SQL Server success
+2022-02-08 14:50:39,298 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-08 14:50:39,782 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-08 14:50:39,839 INFO [1] Program - Start call API download file
+2022-02-08 14:50:39,840 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-08 14:50:43,457 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-08 14:50:43,458 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-02-08 14:50:43,519 INFO [1] Program - Execute Command line ipconfig /all success
+2022-02-08 14:50:43,521 INFO [1] Program - Start Execute Command line ipconfig
+2022-02-08 14:50:43,581 INFO [1] Program - Execute Command line ipconfig success
+2022-02-08 14:50:43,582 INFO [1] Program - Start Execute Command line systeminfo
+2022-02-08 14:50:46,136 INFO [1] Program - Execute Command line systeminfo success
+2022-02-08 14:50:46,140 INFO [1] Program - Start download file
+2022-02-08 14:50:46,141 INFO [1] Program - Path file download:https://file-examples-com.github.io/uploads/2017/02/zip_10MB.zip
+2022-02-08 14:50:47,659 INFO [1] Program - Download file success
+2022-02-08 14:50:47,660 INFO [1] Program - Start upload file:D:\\HaNguyen\\Source\\TargetMaster.xlsx
+2022-02-08 14:50:47,669 INFO [1] Program - Upload file success
+2022-02-08 15:35:43,908 INFO [1] Program - Connect SQL Server success
+2022-02-08 15:36:03,229 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-08 15:36:06,814 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-08 15:36:09,382 INFO [1] Program - Start call API download file
+2022-02-08 15:36:09,672 INFO [1] Program - Path file download:https://file-examples-com.github.io/uploads/2017/02/zip_10MB.zip
+2022-02-08 15:36:35,252 INFO [1] Program - Download file success
+2022-02-08 15:37:07,687 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-08 15:37:39,205 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-08 15:38:20,914 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-02-08 15:38:21,063 INFO [1] Program - Execute Command line ipconfig /all success
+2022-02-08 15:38:21,067 INFO [1] Program - Start Execute Command line ipconfig
+2022-02-08 15:38:21,162 INFO [1] Program - Execute Command line ipconfig success
+2022-02-08 15:38:21,164 INFO [1] Program - Start Execute Command line systeminfo
+2022-02-08 15:38:23,845 INFO [1] Program - Execute Command line systeminfo success
+2022-02-08 15:38:23,847 INFO [1] Program - Start upload file:D:\\HaNguyen\\Source\\TargetMaster.xlsx
+2022-02-08 15:38:23,863 INFO [1] Program - Upload file success
+2022-02-08 15:39:08,669 INFO [1] Program - Connect SQL Server success
+2022-02-08 15:39:11,067 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-08 15:39:12,845 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-08 15:39:13,897 INFO [1] Program - Start call API download file
+2022-02-08 15:39:14,080 INFO [1] Program - Path file download:https://file-examples-com.github.io/uploads/2017/02/zip_10MB.zip
+2022-02-08 15:39:21,785 INFO [1] Program - Download file success
+2022-02-08 15:39:52,959 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-08 15:40:46,024 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-08 15:40:46,026 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-02-08 15:40:46,111 INFO [1] Program - Execute Command line ipconfig /all success
+2022-02-08 15:40:46,113 INFO [1] Program - Start Execute Command line ipconfig
+2022-02-08 15:40:46,168 INFO [1] Program - Execute Command line ipconfig success
+2022-02-08 15:40:46,169 INFO [1] Program - Start Execute Command line systeminfo
+2022-02-08 15:40:50,150 INFO [1] Program - Execute Command line systeminfo success
+2022-02-08 15:40:50,154 INFO [1] Program - Start upload file:D:\\HaNguyen\\Source\\TargetMaster.xlsx
+2022-02-08 15:40:50,159 INFO [1] Program - Upload file success
+2022-02-08 15:44:23,654 INFO [1] Program - Connect SQL Server success
+2022-02-08 15:44:25,484 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-08 15:44:28,042 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-08 15:44:41,153 INFO [1] Program - Start call API download file
+2022-02-08 15:44:41,538 INFO [1] Program - Path file download:https://file-examples-com.github.io/uploads/2017/02/zip_10MB.zip
+2022-02-08 15:45:08,732 INFO [1] Program - Download file success
+2022-02-08 15:45:11,318 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-08 15:45:34,816 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-08 15:45:37,536 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-02-08 15:45:37,950 INFO [1] Program - Execute Command line ipconfig /all success
+2022-02-08 15:45:38,662 INFO [1] Program - Start Execute Command line ipconfig
+2022-02-08 15:45:38,968 INFO [1] Program - Execute Command line ipconfig success
+2022-02-08 15:45:39,899 INFO [1] Program - Start Execute Command line systeminfo
+2022-02-08 15:45:45,048 INFO [1] Program - Execute Command line systeminfo success
+2022-02-08 15:45:46,030 INFO [1] Program - Start upload file:D:\\HaNguyen\\Source\\TargetMaster.xlsx
+2022-02-08 15:45:46,546 INFO [1] Program - Upload file success
+2022-02-08 16:11:56,680 INFO [1] Program - Connect SQL Server success
+2022-02-08 16:11:58,380 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-08 16:12:01,063 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-08 16:12:03,780 INFO [1] Program - Start call API download file
+2022-02-08 16:12:04,107 INFO [1] Program - Path file download:https://file-examples-com.github.io/uploads/2017/02/zip_10MB.zip
+2022-02-08 16:12:18,977 INFO [1] Program - Download file success
+2022-02-08 16:12:21,258 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-08 16:12:32,359 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-08 16:13:08,369 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-02-08 16:13:08,914 INFO [1] Program - Execute Command line ipconfig /all success
+2022-02-08 16:13:14,324 INFO [1] Program - Start Execute Command line ipconfig
+2022-02-08 16:13:14,405 INFO [1] Program - Execute Command line ipconfig success
+2022-02-08 16:13:14,407 INFO [1] Program - Start Execute Command line systeminfo
+2022-02-08 16:13:17,480 INFO [1] Program - Execute Command line systeminfo success
+2022-02-08 16:13:17,482 INFO [1] Program - Start upload file:D:\\HaNguyen\\Source\\TargetMaster.xlsx
+2022-02-08 16:13:17,487 INFO [1] Program - Upload file success
+2022-02-08 17:15:33,623 INFO [1] Program - Connect SQL Server success
+2022-02-08 17:15:35,773 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-08 17:15:39,191 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-08 17:18:17,107 INFO [1] Program - Start call API download file
+2022-02-08 17:18:17,111 INFO [1] Program - Path file download:https://file-examples-com.github.io/uploads/2017/02/zip_10MB.zip
+2022-02-08 17:18:43,575 INFO [1] Program - Download file success
+2022-02-08 17:18:48,006 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-08 17:19:06,735 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-08 17:19:25,436 INFO [1] Program - Start Execute Command line ipconfig /all
+2022-02-08 17:25:32,719 INFO [1] Program - Execute Command line ipconfig /all success
+2022-02-08 17:25:32,721 INFO [1] Program - Start Execute Command line ipconfig
+2022-02-08 17:25:32,780 INFO [1] Program - Execute Command line ipconfig success
+2022-02-08 17:25:32,781 INFO [1] Program - Start Execute Command line systeminfo
+2022-02-08 17:25:35,915 INFO [1] Program - Execute Command line systeminfo success
+2022-02-08 17:25:35,917 INFO [1] Program - Start upload file:D:\\HaNguyen\\Source\\TargetMaster.xlsx
+2022-02-08 17:25:35,923 INFO [1] Program - Upload file success
+2022-02-08 17:27:12,876 INFO [1] Program - Connect SQL Server success
+2022-02-08 17:27:14,908 INFO [1] Program - API Gateway:https://randomuser.me/api/
+2022-02-08 17:27:16,708 INFO [1] Program - Call API https://randomuser.me/api/ Success
+2022-02-08 17:27:18,576 INFO [1] Program - Start call API download file
+2022-02-08 17:27:18,747 INFO [1] Program - Path file download:https://file-examples-com.github.io/uploads/2017/02/zip_10MB.zip
+2022-02-08 17:27:21,544 INFO [1] Program - Download file success
+2022-02-08 17:27:23,148 INFO [1] Program - Start Run StoreActivityUpdate
+2022-02-08 17:27:30,455 INFO [1] Program - Run StoreActivityUpdate success
+2022-02-08 17:27:42,312 INFO [1] Program - Start Execute Command line del D:\HaNguyen\Target2\fileDownload.zip
+2022-02-08 17:28:03,879 INFO [1] Program - Execute Command line del D:\HaNguyen\Target2\fileDownload.zip success
+2022-02-08 17:28:11,868 INFO [1] Program - Start upload file:D:\\HaNguyen\\Source\\TargetMaster.xlsx
+2022-02-08 17:28:13,530 INFO [1] Program - Upload file success

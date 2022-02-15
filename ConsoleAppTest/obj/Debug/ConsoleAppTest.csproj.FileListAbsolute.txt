@@ -1,0 +1,16 @@
+D:\source\WinApp\StoreActivity\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+D:\source\WinApp\StoreActivity\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+D:\source\WinApp\StoreActivity\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+D:\source\WinApp\StoreActivity\ConsoleAppTest\bin\Debug\StoreActivity.dll
+D:\source\WinApp\StoreActivity\ConsoleAppTest\bin\Debug\log4net.dll
+D:\source\WinApp\StoreActivity\ConsoleAppTest\bin\Debug\Newtonsoft.Json.dll
+D:\source\WinApp\StoreActivity\ConsoleAppTest\bin\Debug\StoreActivity.pdb
+D:\source\WinApp\StoreActivity\ConsoleAppTest\bin\Debug\StoreActivity.dll.config
+D:\source\WinApp\StoreActivity\ConsoleAppTest\bin\Debug\log4net.xml
+D:\source\WinApp\StoreActivity\ConsoleAppTest\bin\Debug\Newtonsoft.Json.xml
+D:\source\WinApp\StoreActivity\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+D:\source\WinApp\StoreActivity\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CopyComplete
+D:\source\WinApp\StoreActivity\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+D:\source\WinApp\StoreActivity\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
+D:\source\WinApp\StoreActivity\ConsoleAppTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\source\WinApp\StoreActivity\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.AssemblyReference.cache
