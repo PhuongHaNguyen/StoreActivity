@@ -16,7 +16,6 @@ namespace StoreCore
 {
     public partial class EtpSync : ServiceBase
     {
-        // Test
         private Timer timerPing = null;
         private Timer timerEvent = null;
         private string servicesName = string.Empty;

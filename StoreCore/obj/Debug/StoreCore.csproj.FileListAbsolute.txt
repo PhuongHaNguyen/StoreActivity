@@ -15,4 +15,3 @@ D:\source\WinApp\StoreActivity\StoreCore\obj\Debug\StoreCore.csproj.CoreCompileI
 D:\source\WinApp\StoreActivity\StoreCore\obj\Debug\StoreCore.csproj.CopyComplete
 D:\source\WinApp\StoreActivity\StoreCore\obj\Debug\StoreCore.exe
 D:\source\WinApp\StoreActivity\StoreCore\obj\Debug\StoreCore.pdb
-D:\source\WinApp\StoreActivity\StoreCore\obj\Debug\StoreCore.csproj.AssemblyReference.cache
