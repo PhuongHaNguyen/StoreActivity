@@ -59,7 +59,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConfigHelper.cs" />
     <Compile Include="EtpSync.cs">
       <SubType>Component</SubType>
     </Compile>
